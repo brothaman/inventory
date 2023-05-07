@@ -1,0 +1,2 @@
+# inventory
+A CLI inventory
